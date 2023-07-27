@@ -1,0 +1,19 @@
+html {
+    font-size: 20px;
+    font-family: sans-serif
+}
+.class {
+    background: salmon;
+}
+.class.cooler,
+#another {
+    font-size: 1.5rem;
+}
+#one {
+    font-size: 2rem;
+    color: blue;
+}
+#another {
+    background: lightgreen;
+    font-weight: 700;
+}
