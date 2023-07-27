@@ -1,0 +1,11 @@
+.bg-black {
+    background: black;
+    color: white;
+}
+.bg-yellow {
+    background: yellow;
+    color: black;
+}
+button {
+    font-size: 2rem;
+}
